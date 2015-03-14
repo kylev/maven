@@ -1,5 +1,6 @@
 ---
 title: kylev.github.io Maven
+layout: default
 ---
 
 This is my Maven repo, published via GitHub pages. You can browse the
